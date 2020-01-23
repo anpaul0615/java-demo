@@ -1,0 +1,11 @@
+# IntellJ files
+.idea
+
+# Gradle files
+.gradle
+
+# Build files
+build
+
+# Except Ignore Gradle Wrapper
+!**/gradle/wrapper/*
